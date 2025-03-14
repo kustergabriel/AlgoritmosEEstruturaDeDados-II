@@ -1,0 +1,5 @@
+Exercício
+Escolha um dos problemas vistos em aula (particionamento de intervalos ou
+escalonamento para minimizar atraso), e implemente pelo menos duas ordens
+de seleção de tarefas. Proponha exemplos e informe qual a melhor solução
+encontrada em cada caso de escolha.
